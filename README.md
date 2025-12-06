@@ -16,5 +16,3 @@ I'm actively learning from these excellent resources:
 
 ### 💭 About Me
 > "I'm not particularly good at math, English, or programming, but I just love learning."
-
-I believe that passion and continuous learning are more important than initial proficiency. Every day is an opportunity to grow and improve! 🚀
