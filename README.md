@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Zihang Ma.
+My name is Zihang Ma (or Ma Zihang, whatever you like).
 I'm a junior undergraduate student majoring in Information Management and Information Systems at Tianjin University.
 Currently, I'm working as a research assistant at the TJU RL-lab.
 
@@ -11,7 +11,7 @@ Contact me at 3130338300@qq.com/3023209299@tju.edu.cn, please feel free to do so
 - **Multi-Agent Collaboration**: Studying coordination and cooperation strategies among multiple agents
 
 ### 🌱 Currently Learning
-I'm actively learning from these excellent resources:
+I'm learning:
 - [动手学强化学习 (Hands-on Reinforcement Learning)](https://github.com/junnannie/RL) - Reinforcement learning algorithms and implementations
 - [动手学深度学习 (Dive into Deep Learning)](https://github.com/d2l-ai/d2l-zh) - Deep learning fundamentals and practices
 - [CS329S: ML Deployment Tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial) - Machine learning deployment strategies
