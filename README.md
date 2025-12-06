@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a junior undergraduate student majoring in Information Management and Information Systems at Tianjin University. Currently, I'm working as a research assistant at the Reinforcement Learning Laboratory of Tianjin University.
+I'm a junior undergraduate student majoring in Information Management and Information Systems at Tianjin University. Currently, I'm working as a research assistant at the TJU RL-lab.
 
 ### 🔬 Research Interests
 - **Agent Memory**: Exploring memory mechanisms for intelligent agents
