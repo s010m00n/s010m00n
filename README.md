@@ -4,7 +4,7 @@ My name is Zihang Ma (or Ma Zihang, whatever you like).
 
 I'm a junior undergraduate student majoring in Information Management and Information Systems at Tianjin University.
 
-Currently, I'm working as a research assistant at the TJU RL-lab.
+Currently, I'm working as a research assistant at the Deep-Reinforcement-Learning Lab (DRL-LAB) of Tianjin University.
 
 Contact me at 3130338300@qq.com/3023209299@tju.edu.cn, please feel free to do so ~
 
