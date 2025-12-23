@@ -14,11 +14,11 @@ Contact me at 3130338300@qq.com/3023209299@tju.edu.cn, please feel free to do so
 
 ### 🌱 Currently Learning
 I'm learning:
-- [动手学强化学习 (Hands-on Reinforcement Learning)](https://github.com/junnannie/RL)
-- [动手学深度学习 (Dive into Deep Learning)](https://github.com/d2l-ai/d2l-zh)
-- [动手学机器学习（Learning machine learning from scratch）](https://github.com/datawhalechina/hml-solutions)
-- [CS329S: ML Deployment Tutorial](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial)
-- [Stanford CS336: Foundation Models](https://github.com/stanford-cs336)
+- [动手学强化学习](https://github.com/junnannie/RL)
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
+- [动手学机器学习](https://github.com/datawhalechina/hml-solutions)
+- [CS329S](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial)
+- [CS336](https://github.com/stanford-cs336)
 
 ### 💭 About Me
 > "I'm not particularly good at math, English, or programming, but I just love learning."
