@@ -8,6 +8,7 @@ Contact: 3130338300@qq.com · 3023209299@tju.edu.cn
 
 ### 🛰️ Research Interests
 - agent memory
+- coding agent
 - heuristic-algo design
 
 ### 💾 About Me
