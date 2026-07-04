@@ -10,6 +10,4 @@ Please feel free to contact me at 3130338300@qq.com / 3023209299@tju.edu.cn.
 
 ### 🔥 NEWS!!!
 
-
-
 - 11 Apr 2026 | Our work [*Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting*](https://openreview.net/forum?id=MSXbrNExax) has been accepted as a **poster presentation** at the ICLR 2026 LLA Workshop. I serve as the **co-first author** of this work.
