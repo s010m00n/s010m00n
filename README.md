@@ -12,6 +12,6 @@ BTW, [my Google Scholar profile is available here](https://scholar.google.com/ci
 
 ### 🔥 NEWS!!!
 
-- **Sep 20, 2026** | [The **Streaming Mode** I independently designed](https://agentmemoryleaderboard.ai/home), equivalent to the online mode in Agent Memory Bench, [was officially launched on the **Agent Memory Leaderboard**](https://agentmemoryleaderboard.ai/home). This benchmark protocol and public leaderboard are a joint initiative by researchers and teams from more than twenty universities, research institutions, and open-source communities worldwide.
+- **Sep 20, 2026** | [The **Streaming Mode** I independently designed](https://agentmemoryleaderboard.ai/home), equivalent to the online mode in [AgentMemoryBench](https://openreview.net/forum?id=MSXbrNExax), [was officially launched on the **Agent Memory Leaderboard**](https://agentmemoryleaderboard.ai/home).
 
 - **Apr 11, 2026** | Our work, [*Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting*](https://openreview.net/forum?id=MSXbrNExax), was accepted as a **poster presentation** at the **ICLR 2026 LLA Workshop**. I am the **first author** of this work.
