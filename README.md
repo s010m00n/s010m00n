@@ -4,10 +4,14 @@
 
 I'm **Zihang Ma** (written as "马梓航" in Chinese. "Ma"/"马" is my surname, which means "horse" in Chinese. "Zihang"/"梓航" is my given name).
 
-A junior student in [Tianjin University](https://www.tju.edu.cn/) majoring in [Information Management and System](https://come.tju.edu.cn/info/1042/1521.htm).
+A senior student in [Tianjin University](https://www.tju.edu.cn/) majoring in [Information Management and System](https://come.tju.edu.cn/info/1042/1521.htm).
 
-Please feel free to contact me at 3130338300@qq.com / 3023209299@tju.edu.cn.
+Starting in September 2027, I will pursue a Ph.D. at the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.
+
+BTW, my Google Scholar profile is available [here](https://scholar.google.com/citations?hl=zh-CN&user=R2HWuLEAAAAJ). Feel free to contact me at [3130338300@qq.com](mailto:3130338300@qq.com) or [3023209299@tju.edu.cn] (mailto:3023209299@tju.edu.cn).
 
 ### 🔥 NEWS!!!
 
-- 11 Apr 2026 | Our work [*Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting*](https://openreview.net/forum?id=MSXbrNExax) has been accepted as a **poster presentation** at the ICLR 2026 LLA Workshop. I serve as the **first author** of this work.
+- **Sep 20, 2026** | [The **Streaming Mode** I independently designed](https://agentmemoryleaderboard.ai/home), equivalent to the online mode in Agent Memory Bench, [was officially launched on the **Agent Memory Leaderboard**](https://agentmemoryleaderboard.ai/home). This benchmark protocol and public leaderboard are a joint initiative by researchers and teams from more than twenty universities, research institutions, and open-source communities worldwide.
+
+- **Apr 11, 2026** | Our work, [*Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting*] (https://openreview.net/forum?id=MSXbrNExax), was accepted as a **poster presentation** at the **ICLR 2026 LLA Workshop**. I am the **first author** of this work.
