@@ -8,7 +8,7 @@ A senior student in [Tianjin University](https://www.tju.edu.cn/) majoring in [I
 
 Starting in September 2027, I will pursue a Ph.D. at the [National Laboratory of Pattern Recognition **(NLPR)**](https://nlpr.ia.ac.cn/cn/column/36.html), [Institute of Automation, Chinese Academy of Sciences **(CASIA)**](https://ia.cas.cn/).
 
-BTW, [my Google Scholar profile is available here](https://scholar.google.com/citations?hl=zh-CN&user=R2HWuLEAAAAJ). Feel free to contact me at [3130338300@qq.com](mailto:3130338300@qq.com) or [3023209299@tju.edu.cn] (mailto:3023209299@tju.edu.cn).
+BTW, [my Google Scholar profile is available here](https://scholar.google.com/citations?hl=zh-CN&user=R2HWuLEAAAAJ). Feel free to contact me at 3130338300@qq.com or 3023209299@tju.edu.cn.
 
 ### 🔥 NEWS!!!
 
