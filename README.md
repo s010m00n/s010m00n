@@ -12,6 +12,10 @@ BTW, my Google Scholar profile is available [here](https://scholar.google.com/ci
 
 Plz feel free to contact me at 3130338300@qq.com or 3023209299@tju.edu.cn.
 
+### 💼 Working experiences
+
+*To be continued...*
+
 ### 🔥 NEWS!!!
 
 - **Sep 20, 2026** | The **Streaming Mode** I independently designed, equivalent to the online mode in [AgentMemoryBench](https://github.com/solomoon313/AgentMemoryBench), was officially launched on the [**Agent Memory Leaderboard**](https://agentmemoryleaderboard.ai/home).
