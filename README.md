@@ -4,9 +4,9 @@
 
 I'm **Zihang Ma** (written as "马梓航" in Chinese. "Ma"/"马" is my surname, which means "horse" in Chinese. "Zihang"/"梓航" is my given name).
 
-Right now, I am a senior student in [the Tianjin University](https://www.tju.edu.cn/) majoring in [Information Management and Information Systems](https://come.tju.edu.cn/info/1042/1521.htm).
+Right now, I am a senior student in the [Tianjin University](https://www.tju.edu.cn/) majoring in [Information Management and Information Systems](https://come.tju.edu.cn/info/1042/1521.htm).
 
-Starting in September 2027, I will pursue a Ph.D. at [the National Laboratory of Pattern Recognition **(NLPR)**](), [Institute of Automation, Chinese Academy of Sciences **(CASIA)**]()，specializing in [Computer Vision](https://ia.cas.cn/yjsjy/dsjj/).
+Starting in September 2027, I will pursue a Ph.D. at the [National Laboratory of Pattern Recognition **(NLPR)**](), [Institute of Automation, Chinese Academy of Sciences **(CASIA)**]()，specializing in [Computer Vision](https://ia.cas.cn/yjsjy/dsjj/).
 
 BTW, my Google Scholar profile is available [here](https://scholar.google.com/citations?hl=zh-CN&user=R2HWuLEAAAAJ). 
 
