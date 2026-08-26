@@ -8,7 +8,7 @@ Right now, I am a senior student in the [Tianjin University **(TJU)**](https://e
 
 Starting in September 2027, I will pursue a Ph.D. at the [National Laboratory of Pattern Recognition **(NLPR)**](https://nlpr.ia.ac.cn/en/), [Institute of Automation, Chinese Academy of Sciences **(CASIA)**](http://english.ia.cas.cn/).
 
-Currently, my research interests lie in **llm‑based agent🤖**, **pre-train📉**.
+Currently, my research interests lie in **llm‑based agent🤖**, **eval/data📊**.
 
 BTW, my Google Scholar profile is available [here](https://scholar.google.com/citations?hl=zh-CN&user=R2HWuLEAAAAJ). 
 
