@@ -20,6 +20,6 @@ Plz feel free to contact me at 3130338300@qq.com or 3023209299@tju.edu.cn.
 
 ### 🔥 NEWS!!!
 
-- **Sep 20, 2026** | The **Streaming Mode** I independently designed, equivalent to the **online and intra-transfer mode** in [AgentMemoryBench](https://github.com/solomoon313/AgentMemoryBench), was officially launched on the [Agent Memory Leaderboard](https://agentmemoryleaderboard.ai/home).
+- **Sep 20, 2026** | The **Streaming Mode** I independently designed, equivalent to the **online&intra-transfer mode** in [AgentMemoryBench](https://github.com/solomoon313/AgentMemoryBench), was officially launched on the [Agent Memory Leaderboard](https://agentmemoryleaderboard.ai/home). Notably, AML has accumulated over 1000 GitHub stars to date!
 
-- **Apr 11, 2026** | Our work, [*Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting*](https://openreview.net/forum?id=MSXbrNExax), was accepted as a **poster presentation** at the **ICLR 2026 LLA Workshop**. I am the **first author** of this work.
+- **Apr 11, 2026** | Our work, [*Benchmarking Continual Agent Memory for Online Learning, Transfer, and Forgetting*](https://openreview.net/forum?id=MSXbrNExax), was accepted as a **poster presentation** at the **ICLR 2026 Lifelong-Agent Workshop**. I am the **first author** of this work.
