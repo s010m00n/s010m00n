@@ -16,7 +16,7 @@ Plz feel free to contact me at 3130338300@qq.com or 3023209299@tju.edu.cn.
 
 ### 💼 Working experiences
 
-*To be continued...*
+*coming soon~*
 
 ### 🔥 NEWS!!!
 
