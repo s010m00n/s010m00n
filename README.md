@@ -6,8 +6,6 @@ I'm **Zihang Ma** (written as "马梓航" in Chinese. "Ma"/"马" is my surname, 
 
 Right now, I am a senior student in the [Tianjin University **(TJU)**](https://en.tju.edu.cn/) majoring in [Information Management and Information Systems](https://come.tju.edu.cn/info/1042/1521.htm).
 
-Starting in September 2027, I will pursue a Ph.D. at the [National Laboratory of Pattern Recognition **(NLPR)**](https://nlpr.ia.ac.cn/en/), [Institute of Automation, Chinese Academy of Sciences **(CASIA)**](http://english.ia.cas.cn/).
-
 Currently, my research interests lie in **llm‑based agent🤖**.
 
 BTW, my Google Scholar profile is available [here](https://scholar.google.com/citations?hl=zh-CN&user=R2HWuLEAAAAJ). 
